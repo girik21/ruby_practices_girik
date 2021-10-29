@@ -2,9 +2,9 @@
 season = "spring"
 case season
 when "summer"
-puts"Let's buy shaved Ice-cream"
+  puts "Let's buy shaved Ice-cream"
 when "spring"
-puts "Let's but Ice-cream"
+  puts "Let's but Ice-cream"
 else
-puts "Let's buy shaved Ice-cream"
+  puts "Let's buy shaved Ice-cream"
 end

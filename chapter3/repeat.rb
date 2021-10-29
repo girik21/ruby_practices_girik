@@ -1,6 +1,15 @@
 #Repeat coffee variations
-puts"Cafe Latte"
+puts "Cafe Latte"
 2.times do puts "Mocha" end
-puts"Cafe Latte"
+
+# 2.times{ puts "Mocha" }
+
+# or
+
+# 2.times do
+#   puts "Mocha"
+# end
+
+puts "Cafe Latte"
 2.times do puts "Mocha" end
-puts"Frappuccino"
+puts "Frappuccino"
