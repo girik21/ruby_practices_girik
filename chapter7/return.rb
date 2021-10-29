@@ -1,10 +1,10 @@
 def price(item:)
-    case item
-    when "coffee"
-        300
-    when "latte"
-         400
-    end
+  case item
+  when "coffee"
+    300
+  when "latte"
+    400
+  end
 end
 
 puts price(item: "coffee")

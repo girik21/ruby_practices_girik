@@ -1,9 +1,9 @@
 def price(item:, size: "short")
-    price = 0;
+  price = 0;
   case item
   when 'coffee'
     price = 300
-  when 'caffe latte'
+  when 'latte'
     price = 400
   end
   case size
@@ -17,4 +17,4 @@ def price(item:, size: "short")
 end
 
 puts price(item: 'coffee')
-puts price(item: 'latte', size:"tall")
+puts price(item: 'latte', size: 'tall')
