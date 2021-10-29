@@ -1,7 +1,7 @@
-class Caffe_latte
-def add()
-   puts ("Cheesecake")
+class CaffeLatte
+  def name
+    puts("Cheesecake")
   end
 end
-name = Caffe_latte.new
-puts  name.add
+cafe_latte = CaffeLatte.new
+puts cafe_latte.name
