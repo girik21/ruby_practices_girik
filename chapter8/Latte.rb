@@ -1,8 +1,8 @@
-class Caffe_latte
-def name
+class CaffeLatte # Camel case
+  def name
     "It costs 300 yen"
-   end
+  end
 end
-drink = Caffe_latte.new
-puts  drink.name
-p "It costs 300 yen".class
+drink = CaffeLatte.new
+puts drink.name
+p drink.class

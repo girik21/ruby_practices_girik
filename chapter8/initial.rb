@@ -1,8 +1,10 @@
 #initialize method in the Item class
-class Object
-    def initialize
-        puts "object handling product"
-    end
+class Item
+  def initialize
+    puts "object handling product"
+  end
 end 
 
-Object.new
+Item.new
+
+# igaiga: The Object class is already defined by Ruby, so please use another name for it.
