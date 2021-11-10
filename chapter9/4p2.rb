@@ -1,6 +1,6 @@
 module WhippedCream
-    def self.info
+  def self.info
     "  Whipped cream for topping  "
-    end
+  end
 end
 puts WhippedCream.info

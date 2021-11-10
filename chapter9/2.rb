@@ -1,8 +1,8 @@
 #Choco chip module
 module Chocolatechip
   def chocolate_chip
-    @name += "  Chocolate chip"
-    end
+    @name += "Chocolate chip"
+  end
 end
 
 class Drink
@@ -11,8 +11,8 @@ class Drink
     @name = name
   end
   def name
-     @name
-    end
+    @name
+  end
 end
    
 drink = Drink.new("Mocha")
