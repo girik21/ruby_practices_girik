@@ -5,5 +5,3 @@ if season !="summer"
 elsif season == "summer"
   puts "I want Ice-cream" # nice!
 end
-
-# igaiga: Corrected indentation. And put a space after puts.

@@ -1,4 +1,4 @@
 #Display all elements of the array
-drinks = [""] # igaiga: empty Array is []
-# igiaga: Use Question8 codes.
+drinks = [""] # Fix it: empty Array is []
+# Fix it: Use Question8 codes.
 puts drinks

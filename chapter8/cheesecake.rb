@@ -1,4 +1,4 @@
-# igaiga: Could you write again correct indent?
+# Fix it: Could you write again correct indent?
 
 class Item
     def name

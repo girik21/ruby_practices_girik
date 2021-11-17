@@ -1,4 +1,5 @@
 require_relative "module_method"
+# Fix it:
 # 4.rb:1:in `require_relative': cannot load such file -- ... /module_method (LoadError)
 # module_method.rb is not exist, so rename rb file or fix require_relative "xxx"
 # I think commit bbd364b2 bringed this bug.

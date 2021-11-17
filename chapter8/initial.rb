@@ -6,5 +6,3 @@ class Item
 end 
 
 Item.new
-
-# igaiga: The Object class is already defined by Ruby, so please use another name for it.
